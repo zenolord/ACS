@@ -1516,7 +1516,7 @@ Name	Name
 加载查看移除信息有问题！报错：{0}	Carregando informações removidas! Erro de código: {0}
 加载历史消息	Carregar histórico
 消息属性{0}存在问题	Atributo de mensagem {0} contém um erro.
-[{0}前]	[{0} Agoatrás]
+[{0}前]	[{0} atrás]
 玄穹录	Imortais
 群仙册	Cultivadores
 红尘记	Mortais
