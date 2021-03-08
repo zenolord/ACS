@@ -3893,8 +3893,8 @@ Lua回调类名	Lua Nome da classe de retorno de chamada
 {0}可能会发生事件:\n[color=#D06508]{1}[/color]	{0} Eventos possíveis:\n[color=#D06508]{1}[/color]
 神秘杀手	Assassino misterioso
 信鸽信息	Mensagem do pombo-correio
-历练故事	História de aventura
-江湖秘闻	Segredo mundano
+历练故事	Histórias de aventuras
+江湖秘闻	Segredos mundanos
 此地	Aqui
 历练天下	Aventura mundial
 开始测试 {0}！	Comece o teste {0}!
